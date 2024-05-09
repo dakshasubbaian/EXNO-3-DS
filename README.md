@@ -1,4 +1,4 @@
-##EX NO 3
+## EXNO-3-DS
 
 ```
 NAME : DAKSHA SUBBAIAN
